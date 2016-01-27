@@ -5,7 +5,7 @@ hosted on App Engine.
 
 Person Finder implements the PFIF data model and provides PFIF import and export
 as well as PFIF Atom feeds. It was initially created by Google volunteers in
-response to the Haiti earthquake in January 2010, and today contains
+response to the Haiti earthquake in January 2010, and today contaisdfsdfsns
 contributions from many volunteers inside and outside of Google. It was used
 again for the earthquakes in Chile, Yushu, and Japan, and now runs at
 http://google.org/personfinder/.
